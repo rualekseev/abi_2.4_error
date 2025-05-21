@@ -1,0 +1,920 @@
+{
+  "15d1a70b1198f817962703bec88af3e1679a693ea4634d1db47aac61572d211b": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 300
+    }
+  },
+  "5270cd57ea12ade0204c2cc6a2c2c378a3d71c37f705292f4b06690f96302030": {
+    "0": {
+      "filename": "contracts/Sample.tsol",
+      "line": 32
+    }
+  },
+  "552cbf7968b2566a7fa7d90a04bbb92426d8321cf70b402bfb6c5cf838a1dffc": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 293
+    },
+    "8": {
+      "filename": "build/Sample.code",
+      "line": 303
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 304
+    },
+    "32": {
+      "filename": "build/Sample.code",
+      "line": 305
+    },
+    "48": {
+      "filename": "build/Sample.code",
+      "line": 308
+    },
+    "56": {
+      "filename": "build/Sample.code",
+      "line": 309
+    },
+    "72": {
+      "filename": "build/Sample.code",
+      "line": 310
+    }
+  },
+  "5b59692256f6f952606a8fa9115eae71fff0de9f14293414e3a158693899389d": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 2
+    },
+    "16": {
+      "filename": "build/Sample.code",
+      "line": 3
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 4
+    },
+    "40": {
+      "filename": "build/Sample.code",
+      "line": 5
+    },
+    "56": {
+      "filename": "build/Sample.code",
+      "line": 6
+    },
+    "72": {
+      "filename": "build/Sample.code",
+      "line": 7
+    },
+    "88": {
+      "filename": "build/Sample.code",
+      "line": 8
+    },
+    "104": {
+      "filename": "build/Sample.code",
+      "line": 9
+    },
+    "112": {
+      "filename": "build/Sample.code",
+      "line": 10
+    },
+    "128": {
+      "filename": "build/Sample.code",
+      "line": 11
+    },
+    "144": {
+      "filename": "build/Sample.code",
+      "line": 12
+    },
+    "160": {
+      "filename": "build/Sample.code",
+      "line": 13
+    },
+    "176": {
+      "filename": "build/Sample.code",
+      "line": 14
+    }
+  },
+  "700c64d0cc969377cbaf82d2b3a339690f790ae509fcd434cd44f6b17ddabb7b": {},
+  "73d20f0238eba13271f55fbdf92a7635e32d45324359e6d7175771be001da3aa": {
+    "0": {
+      "filename": "contracts/Sample.tsol",
+      "line": 20
+    },
+    "16": {
+      "filename": "contracts/Sample.tsol",
+      "line": 21
+    },
+    "24": {
+      "filename": "contracts/Sample.tsol",
+      "line": 21
+    },
+    "40": {
+      "filename": "contracts/Sample.tsol",
+      "line": 23
+    },
+    "200": {
+      "filename": "contracts/Sample.tsol",
+      "line": 23
+    },
+    "208": {
+      "filename": "contracts/Sample.tsol",
+      "line": 23
+    },
+    "216": {
+      "filename": "contracts/Sample.tsol",
+      "line": 23
+    },
+    "232": {
+      "filename": "contracts/Sample.tsol",
+      "line": 23
+    },
+    "240": {
+      "filename": "contracts/Sample.tsol",
+      "line": 23
+    },
+    "248": {
+      "filename": "contracts/Sample.tsol",
+      "line": 23
+    }
+  },
+  "77dd30c9e1dc9d1791cf7584009fe5f0f97557b566b0a3278a95df51e5d28cb0": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 103
+    },
+    "8": {
+      "filename": "build/Sample.code",
+      "line": 104
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 105
+    },
+    "48": {
+      "filename": "build/Sample.code",
+      "line": 106
+    },
+    "64": {
+      "filename": "build/Sample.code",
+      "line": 107
+    },
+    "72": {
+      "filename": "build/Sample.code",
+      "line": 108
+    },
+    "88": {
+      "filename": "contracts/Sample.tsol",
+      "line": 26
+    },
+    "96": {
+      "filename": "build/Sample.code",
+      "line": 114
+    },
+    "112": {
+      "filename": "build/Sample.code",
+      "line": 117
+    },
+    "120": {
+      "filename": "build/Sample.code",
+      "line": 118
+    },
+    "136": {
+      "filename": "build/Sample.code",
+      "line": 119
+    },
+    "144": {
+      "filename": "build/Sample.code",
+      "line": 120
+    },
+    "152": {
+      "filename": "build/Sample.code",
+      "line": 121
+    },
+    "168": {
+      "filename": "build/Sample.code",
+      "line": 122
+    },
+    "184": {
+      "filename": "build/Sample.code",
+      "line": 123
+    },
+    "192": {
+      "filename": "build/Sample.code",
+      "line": 124
+    },
+    "200": {
+      "filename": "build/Sample.code",
+      "line": 125
+    },
+    "208": {
+      "filename": "build/Sample.code",
+      "line": 126
+    },
+    "232": {
+      "filename": "build/Sample.code",
+      "line": 127
+    },
+    "240": {
+      "filename": "build/Sample.code",
+      "line": 128
+    },
+    "288": {
+      "filename": "build/Sample.code",
+      "line": 129
+    },
+    "312": {
+      "filename": "build/Sample.code",
+      "line": 130
+    },
+    "328": {
+      "filename": "build/Sample.code",
+      "line": 131
+    },
+    "336": {
+      "filename": "build/Sample.code",
+      "line": 132
+    },
+    "344": {
+      "filename": "build/Sample.code",
+      "line": 133
+    },
+    "360": {
+      "filename": "build/Sample.code",
+      "line": 135
+    },
+    "368": {
+      "filename": "build/Sample.code",
+      "line": 136
+    },
+    "376": {
+      "filename": "build/Sample.code",
+      "line": 138
+    },
+    "384": {
+      "filename": "build/Sample.code",
+      "line": 139
+    },
+    "400": {
+      "filename": "build/Sample.code",
+      "line": 142
+    }
+  },
+  "804351a5b36744ac89701efe17eb6c2da069721bed9e43b83431ca4672120fae": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 250
+    },
+    "16": {
+      "filename": "build/Sample.code",
+      "line": 251
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 252
+    },
+    "48": {
+      "filename": "build/Sample.code",
+      "line": 253
+    },
+    "64": {
+      "filename": "build/Sample.code",
+      "line": 254
+    },
+    "88": {
+      "filename": "build/Sample.code",
+      "line": 255
+    },
+    "104": {
+      "filename": "build/Sample.code",
+      "line": 256
+    },
+    "112": {
+      "filename": "build/Sample.code",
+      "line": 257
+    },
+    "120": {
+      "filename": "build/Sample.code",
+      "line": 258
+    },
+    "144": {
+      "filename": "build/Sample.code",
+      "line": 259
+    },
+    "168": {
+      "filename": "build/Sample.code",
+      "line": 260
+    },
+    "176": {
+      "filename": "build/Sample.code",
+      "line": 261
+    },
+    "184": {
+      "filename": "build/Sample.code",
+      "line": 262
+    },
+    "200": {
+      "filename": "build/Sample.code",
+      "line": 263
+    },
+    "216": {
+      "filename": "build/Sample.code",
+      "line": 267
+    },
+    "224": {
+      "filename": "build/Sample.code",
+      "line": 268
+    },
+    "248": {
+      "filename": "build/Sample.code",
+      "line": 269
+    },
+    "264": {
+      "filename": "build/Sample.code",
+      "line": 270
+    },
+    "272": {
+      "filename": "build/Sample.code",
+      "line": 271
+    },
+    "288": {
+      "filename": "build/Sample.code",
+      "line": 275
+    },
+    "296": {
+      "filename": "build/Sample.code",
+      "line": 276
+    },
+    "312": {
+      "filename": "build/Sample.code",
+      "line": 279
+    }
+  },
+  "8d83f728a3fd3e502a5939a741ff66d738867aa10d1614bc580efb1525ccd7d6": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 146
+    },
+    "8": {
+      "filename": "build/Sample.code",
+      "line": 147
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 148
+    },
+    "48": {
+      "filename": "build/Sample.code",
+      "line": 149
+    },
+    "64": {
+      "filename": "build/Sample.code",
+      "line": 150
+    },
+    "72": {
+      "filename": "build/Sample.code",
+      "line": 151
+    },
+    "88": {
+      "filename": "contracts/Sample.tsol",
+      "line": 19
+    },
+    "96": {
+      "filename": "contracts/Sample.tsol",
+      "line": 19
+    },
+    "104": {
+      "filename": "contracts/Sample.tsol",
+      "line": 19
+    },
+    "112": {
+      "filename": "contracts/Sample.tsol",
+      "line": 19
+    },
+    "120": {
+      "filename": "contracts/Sample.tsol",
+      "line": 19
+    },
+    "128": {
+      "filename": "contracts/Sample.tsol",
+      "line": 19
+    },
+    "136": {
+      "filename": "contracts/Sample.tsol",
+      "line": 19
+    },
+    "152": {
+      "filename": "contracts/Sample.tsol",
+      "line": 19
+    },
+    "160": {
+      "filename": "build/Sample.code",
+      "line": 165
+    },
+    "176": {
+      "filename": "build/Sample.code",
+      "line": 168
+    },
+    "192": {
+      "filename": "build/Sample.code",
+      "line": 171
+    }
+  },
+  "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+  "a471d031a740c6dddf220a02066072a135e6eec94091da8cb2ff7bcdca8e02f3": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 196
+    },
+    "8": {
+      "filename": "build/Sample.code",
+      "line": 197
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 200
+    },
+    "40": {
+      "filename": "build/Sample.code",
+      "line": 201
+    },
+    "48": {
+      "filename": "build/Sample.code",
+      "line": 202
+    },
+    "64": {
+      "filename": "build/Sample.code",
+      "line": 203
+    },
+    "80": {
+      "filename": "build/Sample.code",
+      "line": 204
+    },
+    "96": {
+      "filename": "build/Sample.code",
+      "line": 205
+    },
+    "104": {
+      "filename": "build/Sample.code",
+      "line": 206
+    },
+    "120": {
+      "filename": "build/Sample.code",
+      "line": 207
+    },
+    "128": {
+      "filename": "build/Sample.code",
+      "line": 208
+    },
+    "136": {
+      "filename": "build/Sample.code",
+      "line": 209
+    },
+    "144": {
+      "filename": "build/Sample.code",
+      "line": 210
+    },
+    "152": {
+      "filename": "build/Sample.code",
+      "line": 211
+    },
+    "168": {
+      "filename": "build/Sample.code",
+      "line": 212
+    },
+    "176": {
+      "filename": "build/Sample.code",
+      "line": 213
+    },
+    "192": {
+      "filename": "build/Sample.code",
+      "line": 214
+    },
+    "200": {
+      "filename": "build/Sample.code",
+      "line": 215
+    },
+    "208": {
+      "filename": "build/Sample.code",
+      "line": 216
+    },
+    "224": {
+      "filename": "build/Sample.code",
+      "line": 217
+    },
+    "240": {
+      "filename": "build/Sample.code",
+      "line": 219
+    },
+    "248": {
+      "filename": "build/Sample.code",
+      "line": 220
+    },
+    "256": {
+      "filename": "build/Sample.code",
+      "line": 221
+    },
+    "272": {
+      "filename": "build/Sample.code",
+      "line": 223
+    },
+    "280": {
+      "filename": "build/Sample.code",
+      "line": 224
+    },
+    "296": {
+      "filename": "build/Sample.code",
+      "line": 225
+    },
+    "312": {
+      "filename": "build/Sample.code",
+      "line": 227
+    },
+    "320": {
+      "filename": "build/Sample.code",
+      "line": 228
+    },
+    "336": {
+      "filename": "build/Sample.code",
+      "line": 229
+    },
+    "344": {
+      "filename": "build/Sample.code",
+      "line": 230
+    },
+    "360": {
+      "filename": "build/Sample.code",
+      "line": 232
+    },
+    "368": {
+      "filename": "build/Sample.code",
+      "line": 233
+    },
+    "384": {
+      "filename": "build/Sample.code",
+      "line": 234
+    },
+    "392": {
+      "filename": "stdlib.sol",
+      "line": 22
+    },
+    "408": {
+      "filename": "stdlib.sol",
+      "line": 22
+    },
+    "416": {
+      "filename": "stdlib.sol",
+      "line": 22
+    },
+    "424": {
+      "filename": "stdlib.sol",
+      "line": 22
+    },
+    "440": {
+      "filename": "stdlib.sol",
+      "line": 23
+    },
+    "448": {
+      "filename": "stdlib.sol",
+      "line": 23
+    },
+    "464": {
+      "filename": "stdlib.sol",
+      "line": 23
+    },
+    "488": {
+      "filename": "stdlib.sol",
+      "line": 23
+    },
+    "496": {
+      "filename": "stdlib.sol",
+      "line": 23
+    },
+    "536": {
+      "filename": "stdlib.sol",
+      "line": 23
+    },
+    "544": {
+      "filename": "stdlib.sol",
+      "line": 23
+    },
+    "552": {
+      "filename": "stdlib.sol",
+      "line": 23
+    },
+    "568": {
+      "filename": "stdlib.sol",
+      "line": 24
+    },
+    "584": {
+      "filename": "build/Sample.code",
+      "line": 236
+    },
+    "600": {
+      "filename": "build/Sample.code",
+      "line": 237
+    },
+    "608": {
+      "filename": "build/Sample.code",
+      "line": 238
+    },
+    "624": {
+      "filename": "build/Sample.code",
+      "line": 239
+    },
+    "632": {
+      "filename": "build/Sample.code",
+      "line": 240
+    },
+    "648": {
+      "filename": "build/Sample.code",
+      "line": 241
+    },
+    "664": {
+      "filename": "build/Sample.code",
+      "line": 242
+    },
+    "672": {
+      "filename": "build/Sample.code",
+      "line": 243
+    },
+    "688": {
+      "filename": "build/Sample.code",
+      "line": 246
+    }
+  },
+  "a55b0d78658803376b4edd804be39c8a1c476cd6355dcf2c2978fa8ace3d43be": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 289
+    },
+    "1": {
+      "filename": "build/Sample.code",
+      "line": 290
+    },
+    "2": {
+      "filename": "build/Sample.code",
+      "line": 291
+    },
+    "3": {
+      "filename": "build/Sample.code",
+      "line": 314
+    },
+    "4": {
+      "filename": "build/Sample.code",
+      "line": 318
+    }
+  },
+  "a855e960da764f799277367acfd95d3be9b913e8e56da8c761698a2712fcf99c": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 18
+    },
+    "16": {
+      "filename": "build/Sample.code",
+      "line": 19
+    },
+    "32": {
+      "filename": "build/Sample.code",
+      "line": 20
+    },
+    "48": {
+      "filename": "build/Sample.code",
+      "line": 21
+    },
+    "64": {
+      "filename": "build/Sample.code",
+      "line": 22
+    },
+    "72": {
+      "filename": "build/Sample.code",
+      "line": 23
+    },
+    "88": {
+      "filename": "build/Sample.code",
+      "line": 24
+    },
+    "104": {
+      "filename": "build/Sample.code",
+      "line": 25
+    },
+    "120": {
+      "filename": "build/Sample.code",
+      "line": 26
+    },
+    "136": {
+      "filename": "build/Sample.code",
+      "line": 27
+    },
+    "152": {
+      "filename": "build/Sample.code",
+      "line": 28
+    },
+    "160": {
+      "filename": "build/Sample.code",
+      "line": 29
+    }
+  },
+  "aaf7227e9303f431c57e606cfadc863502e8d5509baa4aed2b8b0875bc53bb57": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 294
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 295
+    },
+    "40": {
+      "filename": "build/Sample.code",
+      "line": 296
+    }
+  },
+  "d2683b25d94c049422c8ea85cd7f1cc7a386dea84e429a9f077a5ed8782a5f83": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 175
+    },
+    "8": {
+      "filename": "build/Sample.code",
+      "line": 176
+    },
+    "56": {
+      "filename": "build/Sample.code",
+      "line": 177
+    },
+    "64": {
+      "filename": "build/Sample.code",
+      "line": 178
+    },
+    "80": {
+      "filename": "build/Sample.code",
+      "line": 181
+    },
+    "88": {
+      "filename": "build/Sample.code",
+      "line": 182
+    },
+    "136": {
+      "filename": "build/Sample.code",
+      "line": 183
+    },
+    "144": {
+      "filename": "build/Sample.code",
+      "line": 184
+    },
+    "160": {
+      "filename": "build/Sample.code",
+      "line": 187
+    },
+    "168": {
+      "filename": "build/Sample.code",
+      "line": 188
+    },
+    "216": {
+      "filename": "build/Sample.code",
+      "line": 189
+    },
+    "224": {
+      "filename": "build/Sample.code",
+      "line": 190
+    }
+  },
+  "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 87
+    },
+    "16": {
+      "filename": "build/Sample.code",
+      "line": 88
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 89
+    },
+    "40": {
+      "filename": "build/Sample.code",
+      "line": 90
+    },
+    "56": {
+      "filename": "build/Sample.code",
+      "line": 91
+    },
+    "64": {
+      "filename": "build/Sample.code",
+      "line": 92
+    },
+    "80": {
+      "filename": "build/Sample.code",
+      "line": 93
+    },
+    "88": {
+      "filename": "build/Sample.code",
+      "line": 94
+    },
+    "96": {
+      "filename": "build/Sample.code",
+      "line": 95
+    },
+    "112": {
+      "filename": "build/Sample.code",
+      "line": 96
+    },
+    "128": {
+      "filename": "build/Sample.code",
+      "line": 97
+    },
+    "136": {
+      "filename": "build/Sample.code",
+      "line": 98
+    },
+    "144": {
+      "filename": "build/Sample.code",
+      "line": 99
+    }
+  },
+  "e962c5627eb5e66fd4cc595e303a9a37caa7f0cabf6798297308c7cabae68521": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 50
+    },
+    "8": {
+      "filename": "build/Sample.code",
+      "line": 51
+    },
+    "24": {
+      "filename": "build/Sample.code",
+      "line": 52
+    },
+    "32": {
+      "filename": "build/Sample.code",
+      "line": 53
+    },
+    "48": {
+      "filename": "build/Sample.code",
+      "line": 56
+    },
+    "64": {
+      "filename": "build/Sample.code",
+      "line": 57
+    },
+    "80": {
+      "filename": "build/Sample.code",
+      "line": 58
+    },
+    "88": {
+      "filename": "build/Sample.code",
+      "line": 59
+    },
+    "96": {
+      "filename": "build/Sample.code",
+      "line": 60
+    },
+    "104": {
+      "filename": "build/Sample.code",
+      "line": 61
+    },
+    "112": {
+      "filename": "build/Sample.code",
+      "line": 62
+    },
+    "120": {
+      "filename": "build/Sample.code",
+      "line": 64
+    },
+    "128": {
+      "filename": "build/Sample.code",
+      "line": 65
+    },
+    "144": {
+      "filename": "build/Sample.code",
+      "line": 66
+    },
+    "152": {
+      "filename": "contracts/Sample.tsol",
+      "line": 14
+    },
+    "168": {
+      "filename": "contracts/Sample.tsol",
+      "line": 16
+    },
+    "184": {
+      "filename": "build/Sample.code",
+      "line": 74
+    },
+    "200": {
+      "filename": "build/Sample.code",
+      "line": 77
+    }
+  },
+  "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+    "0": {
+      "filename": "build/Sample.code",
+      "line": 264
+    },
+    "16": {
+      "filename": "build/Sample.code",
+      "line": 265
+    }
+  }
+}

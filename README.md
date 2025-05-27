@@ -1,5 +1,8 @@
 # abi_2.4_error
 
+# UPD: FIXED
+need to use ```nekoton-wasm-locklift@^1.24.4"``` or higher 
+
 copy .env from .env.template and fill
 
 run 

@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "overrides": {
-    "nekoton-wasm": "npm:nekoton-wasm-locklift@^1.24.0-beta.0"
+    "nekoton-wasm": "npm:nekoton-wasm-locklift@^1.24.4"
   },
   "devDependencies": {
     "@types/chai": "^5.2.2",
